@@ -1,3 +1,2 @@
 # hello-world
-I am learning to create a repository on github
-I am a PhD student and I researches on Hadoop.
+I am a PhD student and I am doing researches on Hadoop.
